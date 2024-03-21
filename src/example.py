@@ -1,4 +1,4 @@
-from main import DataPrepKit as dpk
+from src import DataPrepKit as dpk
 opj_dpk_json = dpk("to_read/test.json")
 # opj_dpk_csv = dpk("to_read/test.csv")
 # opj_dpk_xlsx = dpk("to_read/test.xlsx",sheet_name = 1, index_col = 0)
